@@ -1,4 +1,7 @@
-#pic-s-b-17 a img {
+body {
+background-image: url("http://geodavephotography.com/images/plain-backgrounds/36471323-plain-backgrounds.jpg");
+}
+  #pic-s-b-17 a img {
 max-width: 400px;
 max-height: 500px;
   border: 5px solid black;
