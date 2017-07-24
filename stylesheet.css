@@ -4,6 +4,6 @@ background-image: url("http://wallpapercave.com/wp/BhcQpIw.jpg");
 
   #pic-s-b-17 a img {
 max-height: 500px;
-margin: 10px;
+margin: 10px auto;
 max-width: 90%;
 }
