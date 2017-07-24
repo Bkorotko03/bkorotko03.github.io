@@ -3,6 +3,8 @@ background-image: url("http://wallpapercave.com/wp/BhcQpIw.jpg");
 }
 #top {
   background-image: url("http://gallery.hd.org/_tn/std/textures/blue-denim-1-DHD.jpg");
+  color: white;
+  height: 100px;
 }
   #pic-s-b-17 a img {
 max-height: 500px;
